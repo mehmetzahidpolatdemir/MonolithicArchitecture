@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KluCareer.DataAccessLayer\KluCareer.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\KluCareer.Entities\KluCareer.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

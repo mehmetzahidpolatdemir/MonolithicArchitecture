@@ -1,0 +1,9 @@
+C:\Users\halit\source\repos\KluCareer\KluCareer.Entities\bin\Debug\netcoreapp3.1\KluCareer.Entities.deps.json
+C:\Users\halit\source\repos\KluCareer\KluCareer.Entities\bin\Debug\netcoreapp3.1\KluCareer.Entities.dll
+C:\Users\halit\source\repos\KluCareer\KluCareer.Entities\bin\Debug\netcoreapp3.1\KluCareer.Entities.pdb
+C:\Users\halit\source\repos\KluCareer\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.csprojAssemblyReference.cache
+C:\Users\halit\source\repos\KluCareer\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.AssemblyInfoInputs.cache
+C:\Users\halit\source\repos\KluCareer\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.AssemblyInfo.cs
+C:\Users\halit\source\repos\KluCareer\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.csproj.CoreCompileInputs.cache
+C:\Users\halit\source\repos\KluCareer\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.dll
+C:\Users\halit\source\repos\KluCareer\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.pdb
