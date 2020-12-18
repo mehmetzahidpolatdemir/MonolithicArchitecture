@@ -7042,11 +7042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj",
+      "projectUniqueName": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj",
       "projectName": "KluCareer.BusineesLayer",
-      "projectPath": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj",
+      "projectPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj",
       "packagesPath": "C:\\Users\\halit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.BusineesLayer\\obj\\",
+      "outputPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.BusineesLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\halit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7062,11 +7062,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj"
+            "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj": {
+              "projectPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj"
             },
-            "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.Entities\\KluCareer.Entities.csproj": {
-              "projectPath": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.Entities\\KluCareer.Entities.csproj"
+            "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj": {
+              "projectPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj"
             }
           }
         }

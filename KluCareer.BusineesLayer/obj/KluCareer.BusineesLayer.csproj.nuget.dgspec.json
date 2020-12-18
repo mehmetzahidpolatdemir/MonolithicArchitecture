@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj": {}
+    "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj": {
+    "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj",
+        "projectUniqueName": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj",
         "projectName": "KluCareer.BusineesLayer",
-        "projectPath": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj",
+        "projectPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj",
         "packagesPath": "C:\\Users\\halit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.BusineesLayer\\obj\\",
+        "outputPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.BusineesLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\halit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj"
+              "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj": {
+                "projectPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj"
               },
-              "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.Entities\\KluCareer.Entities.csproj": {
-                "projectPath": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.Entities\\KluCareer.Entities.csproj"
+              "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj": {
+                "projectPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj": {
+    "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj",
+        "projectUniqueName": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj",
         "projectName": "KluCareer.DataAccessLayer",
-        "projectPath": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj",
+        "projectPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\halit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.DataAccessLayer\\obj\\",
+        "outputPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\halit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -86,8 +86,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.Entities\\KluCareer.Entities.csproj": {
-                "projectPath": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.Entities\\KluCareer.Entities.csproj"
+              "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj": {
+                "projectPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj"
               }
             }
           }
@@ -133,14 +133,14 @@
         }
       }
     },
-    "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.Entities\\KluCareer.Entities.csproj": {
+    "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.Entities\\KluCareer.Entities.csproj",
+        "projectUniqueName": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj",
         "projectName": "KluCareer.Entities",
-        "projectPath": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.Entities\\KluCareer.Entities.csproj",
+        "projectPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj",
         "packagesPath": "C:\\Users\\halit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.Entities\\obj\\",
+        "outputPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\halit\\AppData\\Roaming\\NuGet\\NuGet.Config",

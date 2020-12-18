@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZfnmYV3AjlEuRRnVU/7c2lcMlsmPfARrU03uuYDzrrqwyRR/x5JqBQYbuiDOzYzc2JAJfOEvz896lXlXJ05Dxg==",
+  "dgSpecHash": "ik2H5O31QnR9OD3ZRVQJI6KNdQTZmu/5z+uLh51qb9n5L9/UeLugjv0LuCBRxeeiTGuvCp48WKORO0C07tohIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj",
+  "projectFilePath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\halit\\.nuget\\packages\\entityframeworkcore.query\\1.3.1.2\\entityframeworkcore.query.1.3.1.2.nupkg.sha512",
     "C:\\Users\\halit\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

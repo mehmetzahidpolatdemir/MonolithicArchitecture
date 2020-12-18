@@ -7483,11 +7483,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.WebMvc\\KluCareer.WebMvc.csproj",
+      "projectUniqueName": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.WebMvc\\KluCareer.WebMvc.csproj",
       "projectName": "KluCareer.WebMvc",
-      "projectPath": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.WebMvc\\KluCareer.WebMvc.csproj",
+      "projectPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.WebMvc\\KluCareer.WebMvc.csproj",
       "packagesPath": "C:\\Users\\halit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.WebMvc\\obj\\",
+      "outputPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.WebMvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\halit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7503,11 +7503,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj": {
-              "projectPath": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj"
+            "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj": {
+              "projectPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj"
             },
-            "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.Entities\\KluCareer.Entities.csproj": {
-              "projectPath": "C:\\Users\\halit\\source\\repos\\KluCareer\\KluCareer.Entities\\KluCareer.Entities.csproj"
+            "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj": {
+              "projectPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj"
             }
           }
         }
