@@ -4,7 +4,7 @@ using System.Text;
 
 namespace KluCareer.BusineesLayer.Result
 {
-    interface IDataResult<T>:IResult
+    public interface IDataResult<T>:IResult
     {
         T Data { get; set; }
     }

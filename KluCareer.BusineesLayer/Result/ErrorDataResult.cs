@@ -4,6 +4,7 @@ using System.Text;
 
 namespace KluCareer.BusineesLayer.Result
 {
+   
     public class ErrorDataResult<T>:IDataResult<T>
     {
         public T Data { get; set; }

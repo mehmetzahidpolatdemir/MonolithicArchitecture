@@ -7,3 +7,12 @@ C:\Users\halit\source\repos\KluCareer\KluCareer.Entities\obj\Debug\netcoreapp3.1
 C:\Users\halit\source\repos\KluCareer\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.csproj.CoreCompileInputs.cache
 C:\Users\halit\source\repos\KluCareer\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.dll
 C:\Users\halit\source\repos\KluCareer\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.pdb
+E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.Entities\bin\Debug\netcoreapp3.1\KluCareer.Entities.deps.json
+E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.Entities\bin\Debug\netcoreapp3.1\KluCareer.Entities.dll
+E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.Entities\bin\Debug\netcoreapp3.1\KluCareer.Entities.pdb
+E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.csprojAssemblyReference.cache
+E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.AssemblyInfoInputs.cache
+E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.AssemblyInfo.cs
+E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.csproj.CoreCompileInputs.cache
+E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.dll
+E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.pdb
