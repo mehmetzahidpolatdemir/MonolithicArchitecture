@@ -15,6 +15,7 @@ namespace KluCareer.DataAccessLayer.Concrate.Contexts
             var configurationBuiler = new ConfigurationBuilder();
             /*    var appSettingsPath = "C:\\Users\\halit\\source\repos\\KluCareer\\KluCareer.WebMvc\\bin\\Debug\\netcoreapp3.1\\appsettings.json";
             */
+        
             /*
              var bahadirConnctionString = "Server:DESKTOP-1RIU8OU\\SQLEXPRESS;Database:Klu_Carrier;integrated security=true";
              
