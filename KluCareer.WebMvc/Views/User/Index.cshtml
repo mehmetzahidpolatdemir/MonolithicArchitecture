@@ -1,1 +1,34 @@
-﻿
+﻿<div>
+
+
+    <select id="test" style="width:200px">
+     
+    </select>
+
+
+</div>
+
+
+
+<script>
+
+    window.addEventListener('load', (event) => {
+
+      var selectElement =  document.getElementById("test");
+
+        fetch("/user/getlistfullinclude")
+            .then((response) => response.json())
+            .then(data => {
+               
+                data.forEach(item => {
+                    var option = document.createElement("option");
+                    option.value = item.id;
+                    option.text = item.userName;
+                    selectElement.add(option);
+                });
+
+            });
+
+
+    });
+</script>

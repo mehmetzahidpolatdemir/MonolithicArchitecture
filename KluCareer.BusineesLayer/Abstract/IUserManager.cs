@@ -12,5 +12,6 @@ namespace KluCareer.BusineesLayer.Abstract
         IResult Update(User user);
         IResult Remove(User user);
         IDataResult<List<User>> GetList();
+        IDataResult<List<User>> GetListFullInclude();
     }
 }

@@ -1,21 +1,19 @@
 ﻿using Autofac;
 using KluCareer.BusineesLayer.Abstract;
 using KluCareer.BusineesLayer.Concrate;
-using KluCareer.DataAccessLayer.Abstract;
-using KluCareer.DataAccessLayer.Concrate.EntityFramework;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace KluCareer.BusineesLayer.DependencyModules.AutoFac
+namespace KluCareer.BusineesLayer.DependencyModules.Autofac
 {
-    public class AutoFacDependencyModule:Module
+    public class AutofacDependencyModule:Module
     {
-        protected virtual void Load(ContainerBuilder builder)
+
+        protected override void Load(ContainerBuilder builder)
         {
             builder.RegisterType<UserManager>().As<IUserManager>();
-            builder.RegisterType<EfUserDal>().As<IUserDal>();
-
         }
+
     }
 }

@@ -15,7 +15,17 @@ namespace KluCareer.BusineesLayer.Concrate
        
         public IResult Add(User user)
         {
+            bool any = _userDal.Any(user.UserName);
+
+            if (any)
+            {
+                var errorResult = new ErrorResult();
+                errorResult.AddMessage("ObjectNotAdded", "Böyle bir kullanıcı bulunmaktadır!!");
+                return errorResult;
+            }
+
             bool isAdded = _userDal.Add(user);
+
 
             if (!isAdded)
             {
@@ -29,6 +39,12 @@ namespace KluCareer.BusineesLayer.Concrate
         public IDataResult<List<User>> GetList()
         {
             var users = _userDal.GetList();
+            return new SuccessDataResult<List<User>>(users);
+        }
+
+        public IDataResult<List<User>> GetListFullInclude()
+        {
+            var users = _userDal.GetListFullInclude();
             return new SuccessDataResult<List<User>>(users);
         }
 

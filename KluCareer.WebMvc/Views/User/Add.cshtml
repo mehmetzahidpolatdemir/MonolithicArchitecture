@@ -1,0 +1,16 @@
+﻿<h2>Kullanıcı kaydı..</h2>
+
+
+@if (ViewBag.error!=null)
+{
+    foreach (var item in ViewBag.error)
+    {
+        <span>Hata kodu: @item.Key Hata mesajı : @item.Message</span>
+    }
+}
+
+<form action="/user/Add" method="post">
+    <input type="text" name="UserName" />
+    <input type="text" name="Password" />
+    <button type="submit">Kaydol</button>
+</form>

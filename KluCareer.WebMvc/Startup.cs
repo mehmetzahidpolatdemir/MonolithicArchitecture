@@ -2,6 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Autofac;
+using KluCareer.BusineesLayer.DependencyModules.Autofac;
+using KluCareer.WebMvc.DependencyResolver.Autofac;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -24,6 +27,17 @@ namespace KluCareer.WebMvc
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+        }
+
+        public void ConfigureContainer(ContainerBuilder builder)
+        {
+            // Register your own things directly with Autofac, like:
+            builder.RegisterModule(new AutofacDependencyModule());
+
+            var containerBuilder = new ContainerBuilder();
+            containerBuilder.RegisterModule(new AutofacDependencyModule());
+
+            AutofacDependencyResolver.SetAutofacContainer(containerBuilder);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
