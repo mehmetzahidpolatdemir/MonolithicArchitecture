@@ -17,7 +17,7 @@ E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.DataAccessLayer\b
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.DataAccessLayer\obj\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.csprojAssemblyReference.cache
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.DataAccessLayer\obj\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.AssemblyInfoInputs.cache
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.DataAccessLayer\obj\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.AssemblyInfo.cs
-E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.DataAccessLayer\obj\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.csproj.CoreCompileInputs.cache
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.DataAccessLayer\obj\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.csproj.CopyComplete
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.DataAccessLayer\obj\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.dll
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.DataAccessLayer\obj\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.pdb
+E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.DataAccessLayer\obj\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.csproj.CoreCompileInputs.cache

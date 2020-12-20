@@ -12,8 +12,8 @@ using System.Transactions;
 
 namespace KluCareer.DataAccessLayer.Concrate.EntityFramework.Repository
 {
-    public class EfRepository<TEntity, TContext> : IRepository<TEntity>,IUnitOfWork
-        where TEntity:BaseEntity
+    public class EfRepository<TEntity, TContext> : IRepository<TEntity>, IUnitOfWork
+        where TEntity : BaseEntity
         where TContext : DbContext, new()
     {
         TContext context;
@@ -21,17 +21,15 @@ namespace KluCareer.DataAccessLayer.Concrate.EntityFramework.Repository
 
         public EfRepository()
         {
-            _transaction = context.Database.BeginTransaction();
             context = new TContext();
+            _transaction = context.Database.BeginTransaction();
         }
 
         public bool Add(TEntity entity)
         {
-
             DateTime now = DateTime.Now;
             entity.CreatedDate = now;
             entity.ModifiedDate = now;
-
             context.Set<TEntity>().Add(entity);
             return Commit();
         }
@@ -57,7 +55,7 @@ namespace KluCareer.DataAccessLayer.Concrate.EntityFramework.Repository
 
         public void Dispose()
         {
-           context.Dispose();
+            context.Dispose();
         }
 
         public TEntity GetById(Guid Id)
@@ -67,31 +65,30 @@ namespace KluCareer.DataAccessLayer.Concrate.EntityFramework.Repository
 
         public int GetCount(Guid Id)
         {
-            return context.Set<TEntity>().Count(i=>i.Id==Id);
+            return context.Set<TEntity>().Count(i => i.Id == Id);
         }
 
         public List<TEntity> GetList()
         {
-           var list =  context.Set<TEntity>().ToList();
+            var list = context.Set<TEntity>().ToList();
             return list;
         }
 
         public bool Remove(TEntity entity)
         {
-           
-           context.Set<TEntity>().Remove(entity);
+            context.Set<TEntity>().Remove(entity);
             return Commit();
         }
 
         public bool Update(TEntity entity)
         {
 
-                DateTime now = DateTime.Now;
+            DateTime now = DateTime.Now;
             entity.ModifiedDate = now;
 
             context.Set<TEntity>().Update(entity);
 
-           return Commit();
+            return Commit();
         }
 
     }

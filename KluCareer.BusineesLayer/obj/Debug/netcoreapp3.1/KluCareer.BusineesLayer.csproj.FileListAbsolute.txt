@@ -22,7 +22,7 @@ E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.BusineesLayer\bin
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.BusineesLayer\obj\Debug\netcoreapp3.1\KluCareer.BusineesLayer.csprojAssemblyReference.cache
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.BusineesLayer\obj\Debug\netcoreapp3.1\KluCareer.BusineesLayer.AssemblyInfoInputs.cache
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.BusineesLayer\obj\Debug\netcoreapp3.1\KluCareer.BusineesLayer.AssemblyInfo.cs
-E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.BusineesLayer\obj\Debug\netcoreapp3.1\KluCareer.BusineesLayer.csproj.CoreCompileInputs.cache
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.BusineesLayer\obj\Debug\netcoreapp3.1\KluCareer.BusineesLayer.csproj.CopyComplete
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.BusineesLayer\obj\Debug\netcoreapp3.1\KluCareer.BusineesLayer.dll
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.BusineesLayer\obj\Debug\netcoreapp3.1\KluCareer.BusineesLayer.pdb
+E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.BusineesLayer\obj\Debug\netcoreapp3.1\KluCareer.BusineesLayer.csproj.CoreCompileInputs.cache

@@ -16,23 +16,17 @@ namespace KluCareer.DataAccessLayer.Concrate.Contexts
             /*    var appSettingsPath = "C:\\Users\\halit\\source\repos\\KluCareer\\KluCareer.WebMvc\\bin\\Debug\\netcoreapp3.1\\appsettings.json";
             */
         
-            /*
-             var bahadirConnctionString = "Server:DESKTOP-1RIU8OU\\SQLEXPRESS;Database:Klu_Carrier;integrated security=true";
-             
-             */
             var appSettingsPath = Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json");
 
-            string connectionString = configurationBuiler.Build().GetConnectionString("default");
             configurationBuiler.AddJsonFile(appSettingsPath);
+            string connectionString = configurationBuiler.Build().GetConnectionString("default");
 
             //optionsBuilder.UseSqlServer(connectionString);
             optionsBuilder.UseSqlServer(connectionString, option => { 
             //yeni yapılandırlamalr geldiğinde buradan eklenebilir...
-            
             });
         }
       
-
         public DbSet<Cv> Cvs { get; set; }
         public DbSet<Bolum> Bolumler { get; set; }
         public DbSet<User> Users { get; set; }
