@@ -13,8 +13,7 @@ namespace KluCareer.DataAccessLayer.Concrate.Contexts
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             var configurationBuiler = new ConfigurationBuilder();
-            /*    var appSettingsPath = "C:\\Users\\halit\\source\repos\\KluCareer\\KluCareer.WebMvc\\bin\\Debug\\netcoreapp3.1\\appsettings.json";
-            */
+         
         
             var appSettingsPath = Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json");
 

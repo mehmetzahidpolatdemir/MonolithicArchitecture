@@ -1,18 +1,17 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="Current">
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <FileUpgradeFlags>40</FileUpgradeFlags>
+    <UpgradeBackupLocation>C:\Users\mehmet_zahid\Desktop\MonolithicArchitecture\Backup\KluCareer.BusineesLayer\</UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
   </PropertyGroup>
-
   <ItemGroup>
     <PackageReference Include="Autofac" Version="6.1.0" />
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
     <PackageReference Include="Microsoft.Bcl.AsyncInterfaces" Version="5.0.0" />
   </ItemGroup>
-
   <ItemGroup>
     <ProjectReference Include="..\KluCareer.DataAccessLayer\KluCareer.DataAccessLayer.csproj" />
     <ProjectReference Include="..\KluCareer.Entities\KluCareer.Entities.csproj" />
   </ItemGroup>
-
 </Project>
