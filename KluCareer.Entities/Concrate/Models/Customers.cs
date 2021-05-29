@@ -5,10 +5,10 @@ using System.Text;
 
 namespace KluCareer.Entities.Concrate.Models
 {
-    public class Fakulte:BaseEntity
+    public class Admin
     {
-        public string Name { get; set; }
-
-        public List<Fakulte> Fakulteler { get; set; }
+        public Guid UserId { get; set; }
+        public User User { get; set; }
+        public List<DevirDaim> DevirDaim { get; set; }
     }
 }
